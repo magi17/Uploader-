@@ -1,0 +1,81 @@
+[
+  {
+    "id": "gma-philippines",
+    "name": "GMA Philippines",
+    "description": "Leading Filipino television network featuring news, entertainment, and local programming with high-quality content.",
+    "streamUrl": "https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd",
+    "streamType": "dash",
+    "category": "General Entertainment",
+    "country": "Philippines",
+    "language": "Filipino/English",
+    "quality": "HD",
+    "isActive": true,
+    "logo": "assets/images/gma-logo.jpg"
+  },
+  {
+    "id": "kapamilya-hd",
+    "name": "Kapamilya HD",
+    "description": "Kapamilya HD Channel",
+    "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+    "streamType": "dash",
+    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+    "category": "General Entertainment",
+    "country": "Philippines",
+    "language": "Filipino/English",
+    "quality": "HD",
+    "isActive": true,
+    "logo": "https://logo.iptveditor.com/hbosignature.png"
+  },
+  {
+    "id": "abs-cbn-news",
+    "name": "ABS-CBN News",
+    "description": "Latest breaking news, current affairs, and in-depth reporting from the Philippines and around the world.",
+    "streamUrl": "url mo dito",
+    "streamType": "hls",
+    "category": "News",
+    "country": "Philippines",
+    "language": "Filipino/English",
+    "quality": "HD",
+    "isActive": true,
+    "logo": "assets/images/abs-cbn-logo.png"
+  },
+  {
+    "id": "pbo-global",
+    "name": "PBO Global",
+    "description": "Philippine Broadcasting Organization featuring local and international content with Filipino programming.",
+    "streamUrl": "url mo dito",
+    "streamType": "hls",
+    "category": "General Entertainment",
+    "country": "Philippines",
+    "language": "Filipino/English",
+    "quality": "HD",
+    "isActive": true,
+    "logo": "assets/images/pbo-logo.png"
+  },
+  {
+    "id": "tv-patrol",
+    "name": "TV Patrol",
+    "description": "Prime time news program delivering comprehensive coverage of local and international news events.",
+    "streamUrl": "url mo dito",
+    "streamType": "hls",
+    "category": "News",
+    "country": "Philippines",
+    "language": "Filipino",
+    "quality": "HD",
+    "isActive": true,
+    "logo": "assets/images/tv-patrol-logo.png"
+  },
+  {
+    "id": "gma-news-tv",
+    "name": "GMA News TV",
+    "description": "24/7 news channel providing round-the-clock coverage of breaking news and current affairs.",
+    "streamUrl": "url mo dito",
+    "streamType": "hls",
+    "category": "News",
+    "country": "Philippines",
+    "language": "Filipino/English",
+    "quality": "HD",
+    "isActive": true,
+    "logo": "assets/images/gma-news-logo.png"
+  }
+]
