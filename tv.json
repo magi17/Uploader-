@@ -1,0 +1,677 @@
+{
+    "version": 3.8,
+    "message": "Channels Version: 3.8\n\nNEW UPDATE JULY, 15 2025\n\nFIX NOT WORKING CHANNELS",
+    "channels":[
+    {
+        "name": "Kapamilya HD",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://www.rappler.com/tachyon/r3-assets/3E8CFD536445453C9575551922F68F49/img/FAB93EF5D0DF4FD6BE017B76302A75BD/Kapamilya_Channel_logo.jpg"
+    },
+    {
+        "name": "Kapamilya SD",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://www.rappler.com/tachyon/r3-assets/3E8CFD536445453C9575551922F68F49/img/FAB93EF5D0DF4FD6BE017B76302A75BD/Kapamilya_Channel_logo.jpg"
+    },
+    {
+      "name": "GMA 7 (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://www.seekpng.com/png/detail/355-3557504_gma-network-logo-vector-gma-7-logo-png.png"
+    },
+    {
+      "name": "GTV (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/250px-GTV_Philippines_Logo_Vector.svg.png"
+    },
+    {
+      "name": "TELERADYO (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001249/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/ABS-CBN_TeleRadyo_logo.png/250px-ABS-CBN_TeleRadyo_logo.png"
+    },
+    {
+      "name": "ANC HD (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/anc/anc_greyscale.png"
+    },
+    {
+      "name": "MYX PHILIPPINES (CON)",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://i.imgur.com/QnaABSF.jpeg"
+    },
+    {
+      "name": "ALL TV",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://cms.cignal.tv/Upload/Images/35%20AllTV%20(1).JPG"
+    },
+    {
+      "name": "BILYONARYO CHANNEL (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://bnc.ph/wp-content/uploads/2024/06/cropped-BNC-LOGO-BLACK.png"
+    },
+    {
+      "name": "TV5 HD (CON)",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001088/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://i.imgur.com/gGrUGVx.jpeg"
+    },
+    {
+      "name": "A2Z (1)",
+      "streamUrl": "https://ott.udptv.net/stream/iptv/a2z/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+      "licenseUrl": "",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/512px-A2Z_Channel_11_Logo.png"
+    },
+    {
+      "name": "A2Z ( 2 Cignal)",
+      "streamUrl": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8",
+      "licenseUrl": "",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/512px-A2Z_Channel_11_Logo.png"
+    },
+    {
+      "name": "A2Z ( 3 CON)",
+      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/512px-A2Z_Channel_11_Logo.png"
+    },
+    {
+      "name": "NET25 (CON)",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://www.eaglebroadcasting.net/wp-content/uploads/2020/10/newnet25logo-300x151.png"
+    },
+        {
+      "name": "TMC",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001080/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+          "icon": "https://i.imgur.com/6mNCite.png"
+    },
+    {
+      "name": "CINEMO",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://i.ibb.co/y4q1ttt/cinemaworld-2-1.png"
+    },
+    {
+      "name": "UNTV (CON)",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/2560px-UNTV-Logo-2016.svg.png"
+    },
+    {
+      "name": "PTV4 (CON)",
+      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428"
+    },
+    {
+      "name": "DZRH TV (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648"
+    },
+    {
+      "name": "KNOWLEDGE CHANNELS (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://i.imgur.com/UIqEr2y.png"
+    },
+    {
+      "name": "ALIW CHANNEL 23 (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://i.ibb.co/z8RF9NQ/channels4-profile-removebg-preview.png"
+    },
+    {
+      "name": "CLTV 36",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759"
+    },
+    {
+      "name": "SPOTLIGHT TV",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001134/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "RJ TV",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001338/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png"
+    },
+    {
+      "name": "LACH TV",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001154/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "ONE MEDIA",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001234/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    
+    {
+      "name": "ONE PH (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001198/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "ONE SPORTS (CON)",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001083/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "CINEMAX (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "HBO (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    
+    {
+      "name": "HBO SIGNATURE (CON)",
+      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001285/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "THRILL (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001253/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "SOLARFLIX",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "JEEPNEY TV",
+      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    
+    {
+      "name": "AXN CHANNEL (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001182/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "NBA TV PH (CON)",
+      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001064/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "RPTV (CON)",
+      "streamUrl": "http://143.44.136.112:6910/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    
+    {
+      "name": "PINOY XTREAM CHANNEL",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "SOLAR SPORTS",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "SLA JUNIOR",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001324/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "PREMIER FOOTBALL",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+      "name": "SPOTV HD (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001133/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+        
+    {
+        "name": "DISNEY CHANNEL",
+        "streamUrl": "https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd",
+        "licenseUrl": "https://drm.antik.sk/widevine/key",
+        "icon": ""
+    },
+    {
+        "name": "DISNEY JR.",
+        "streamUrl": "https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd",
+        "licenseUrl": "https://drm.antik.sk/widevine/key",
+        "icon": ""
+    },
+    {
+        "name": "CARTOON NETWORK",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001178/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+        "name": "CARTOONITO",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+        "name": "NICK JR",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+        "name": "MYX",
+        "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+        "name": "ROCK TV MANILA",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+        "name": "DISCOVERY CHANNEL",
+        "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001194/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+        "name": "HISTORY2",
+        "streamUrl": "https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd",
+        "licenseUrl": "https://drm.antik.sk/widevine/key",
+        "icon": ""
+    },
+    {
+        "name": "METRO CHANNEL",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+        "name": "TLC",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001181/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+        "name": "KBS KOREA",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001246/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+        "name": "CGTN DOCUMENTARY",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001110/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+        "name": "CCTV4",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001223/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+    {
+        "name": "PREMIER FOOTBALL",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
+        "icon": ""
+    },
+        {
+      "name": "DZBB",
+      "streamUrl": "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8",
+      "licenseUrl": "",
+            "icon": ""
+        },
+    {  
+      "name": "CINEMA ONE (Test M3U8)",
+      "streamUrl": "https://tfc.mark-projects.site/cinemaone.m3u8",
+      "licenseUrl": "",
+        "icon": ""
+    },
+    {    
+      "name": "VIVA CINEMA",
+      "streamUrl": "https://ott.udptv.net/stream/iptv/vivacinema/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+      "licenseUrl": "",
+        "icon": "https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02101119/vivacinema-logo-300x300.png"
+        },
+            {  
+      "name": "PBB X GMA  CELEBRITY COLLAB EDITION",
+      "streamUrl": "https://ott.udptv.net/stream/iptv/pbballaccesslivestream/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+      "licenseUrl": "",
+        "icon": "https://media.assettype.com/sunstar/2025-01-29/nb9nhnj6/Untitled-1.jpg?w=480&auto=format,compress&fit=max"
+    },
+    {  
+      "name": "ANIMAX",
+      "streamUrl": "https://ott.udptv.net/stream/iptv/animax/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+      "licenseUrl": "",
+        "icon": "https://static.wikia.nocookie.net/fic5689/images/c/c7/Animax_HD_Luxemgary_2022.png/revision/latest?cb=20221202220353"
+    },
+    {
+      "name": "DISCOVERY ASIA",
+      "streamUrl": "https://ott.udptv.org/stream/astro/discoveryasia/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+      "licenseUrl": "",
+        "icon": ""
+    },    
+  {
+    "name": "HBO Boxing",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png"
+  },
+  {
+    "name": "HBO Comedy",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/hbocomedy/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png"
+  },
+ 
+  {
+    "name": "HBO Family",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/hbofamily/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://i.imgur.com/sDFfNjo.png"
+  },
+  {
+    "name": "HBO HD",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/hbohd/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://i.imgur.com/EnA2RcD.png"
+  },
+  {
+    "name": "HBO Hits",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/hbohits/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://i.imgur.com/K52zUFR.png"
+  },
+  {
+    "name": "HBO Signature",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/hbosignature/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://i.imgur.com/t4HF5va.png"
+  },
+  {
+    "name": "HBO West",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/hbowest/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://i.imgur.com/EnA2RcD.png"
+  },
+  {
+    "name": "HBO Zone",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png"
+  },
+  {
+    "name": "HBO2",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/hbo2/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png"
+  },
+  {
+    "name": "Dreamworks Tagalized",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/dreamworkstagalized/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://i.imgur.com/cgfKSDP.png"
+  },
+  {
+    "name": "DMAX",
+    "streamUrl": "https://ott.udptv.org/stream/astro/dmax/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png"
+  },
+  {
+    "name": "FOX 11",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/fox11/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-11-kttv-us.png?raw=true"
+  },
+  {
+    "name": "NFL NETWORK",
+    "streamUrl": "https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  {
+    "name": "ZEE SINE",
+    "streamUrl": "https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  {
+    "name": "JUNGO TV PINOY",
+    "streamUrl": "https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  {
+    "name": "SCREAMFLIX",
+    "streamUrl": "https://jungotvstream.chanall.tv/jungotv/screamflix/stream.m3u8",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  {
+    "name": "FRONT ROW CHANNEL",
+    "streamUrl": "https://jungotvstream.chanall.tv/jungotv/frontrow/stream.m3u8",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  {
+    "name": "HALLYPOP",
+    "streamUrl": "https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  {
+    "name": "AWSN",
+    "streamUrl": "https://amg02188-amg02188c2-jungotv-northamerica-5717.playouts.now.amagi.tv/playlist1080p.m3u8",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  {
+    "name": "COMBAT GO",
+    "streamUrl": "https://jungotvstream.chanall.tv/jungotv/combatgo/stream.m3u8",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  
+  {
+    "name": "MTV Live US",
+    "streamUrl": "https://ott.udptv.com/stream/fubo/mtvlive/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true"
+  },
+  {
+    "name": "MTVU",
+    "streamUrl": "https://ott.udptv.com/stream/fubo/mtvu/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true"
+  },
+  {
+    "name": "Myx Global",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/myxglobal-1/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://i.imgur.com/CIPTNnT.png"
+  },
+  {
+    "name": "MYX PH",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/myxph/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://i.imgur.com/CIPTNnT.png"
+  },
+  {
+    "name": "Nat Geo Wild",
+    "streamUrl": "https://ott.udptv.com/stream/udptv/natgeowild/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png"
+  },
+  {
+    "name": "Nat Geo Wild US",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/natgeowild/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/nat-geo-wild-pl.png"
+  },
+  {
+    "name": "One Sports +",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://i.imgur.com/nFLt8cN.png"
+  },
+  {
+    "name": "National Geographic Channel",
+    "streamUrl": "https://ott.udptv.com/stream/udptv/nationalgeographicchannel/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png"
+  },
+  {
+    "name": "NBA TV USA",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/nbatv/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  {
+    "name": "PBA RUSH",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  {
+    "name": "TAP ACTION FLIX",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/tapactionflix/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  {
+    "name": "TV5 HD",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  {
+    "name": "WARNER TV",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/warnertv/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": ""
+  },
+  
+  {
+    "name": "BOO",
+    "streamUrl": "https://ott.udptv.org/stream/astro/boo/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/boo-my.png"
+  },
+  {
+    "name": "Cartoon Network",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/cartoonnetwork/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://i.imgur.com/8mfFj4h.png"
+  },
+  {
+    "name": "Disney Channel US",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/disneychannel/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png"
+  },
+  {
+    "name": "Disney JR US",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/disneyjr/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/300px-Disney_Jr._2024.svg.png"
+  },
+  {
+    "name": "Disney XD US",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/disneyxd/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/300px-Disney_XD_-_2015.svg.png"
+  },   
+  {
+    "name": "Tennis Channel",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/tennischannel/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-hz-us.png?raw=true"
+  },
+  {
+    "name": "Thrill",
+    "streamUrl": "https://ott.udptv.net/stream/iptv/thrill/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://i.imgur.com/K134qCk.png"
+  },
+  {
+    "name": "TNT",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/tnt/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png"
+  },
+  {
+    "name": "ESPN",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/espn/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png"
+  },
+  {
+    "name": "ESPN 2",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/espn2/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png"
+  },
+  {
+    "name": "ESPN News",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/espnnews/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/500px-ESPNews.svg.png"
+  },
+  {
+    "name": "ESPN U",
+    "streamUrl": "https://ott.udptv.org/stream/udptvus/espnu/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "licenseUrl": "",
+    "icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png"
+  },
+{
+    "name": "TEST IWANTFC KAPCHA KAPAMILYA CHANNEL",
+    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd",
+    "licenseUrl": "https://widevine-dash.ezdrm.com/proxy?pX=C47792&CustomData=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkcm1fcHJvcGVydGllcyI6eyJMaWNlbnNlX0R1cmF0aW9uIjoiMCIsIlBsYXkiOiJUcnVlIn0sImV4cCI6MTc1MjEyNDI2NywiaWF0IjoxNzUyMTI0MTQ3LCJwbGF5YmFja19wcm9wZXJ0aWVzIjp7ImFwcFZlcnNpb24iOiIyNS4wNy4wNy0xIiwiYXBwVmVyc2lvbkNvZGUiOiIxIiwiYXNzZXRJZCI6IjMwNDI3ZGFhLTY3YjQtNGRhYi05NTVmLTJkOWRlZDI0MTRjNyIsImF1ZGlvIjoic3RlcmVvIiwiY291bnRyeSI6IlBIIiwiZGV2aWNlSWQiOiJ1bmtub3duIiwiZHJtIjoid3YiLCJoZHIiOiJoZHIxMCIsIm9mZmxpbmUiOiJmYWxzZSIsInBsYXRmb3JtIjoid2ViIiwicGxheWJhY2tTZXNzaW9uSWQiOiI4Njk0YWI1Yy1jZjhmLTQ5MzQtYjBkMi0xYmU3MjcxZWEzZjUiLCJyZXNvbHV0aW9uIjoiZmhkIiwic3RyZWFtVHlwZSI6ImRhc2giLCJzdWJQbGF0Zm9ybSI6ImNocm9tZSIsInVzZXJJZCI6IiJ9fQ.8pSWqh4VvCp1BepXJzWqJbxLqV6YjdTDxX7ll4oVX4s",
+    "icon": ""
+  },
+{
+    "name": "TEST IWANTFC MYX",
+    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd",
+    "licenseUrl": "https://widevine-dash.ezdrm.com/proxy?pX=C47792&CustomData=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkcm1fcHJvcGVydGllcyI6eyJMaWNlbnNlX0R1cmF0aW9uIjoiMCIsIlBsYXkiOiJUcnVlIn0sImV4cCI6MTc1MjEyNDI2NywiaWF0IjoxNzUyMTI0MTQ3LCJwbGF5YmFja19wcm9wZXJ0aWVzIjp7ImFwcFZlcnNpb24iOiIyNS4wNy4wNy0xIiwiYXBwVmVyc2lvbkNvZGUiOiIxIiwiYXNzZXRJZCI6IjMwNDI3ZGFhLTY3YjQtNGRhYi05NTVmLTJkOWRlZDI0MTRjNyIsImF1ZGlvIjoic3RlcmVvIiwiY291bnRyeSI6IlBIIiwiZGV2aWNlSWQiOiJ1bmtub3duIiwiZHJtIjoid3YiLCJoZHIiOiJoZHIxMCIsIm9mZmxpbmUiOiJmYWxzZSIsInBsYXRmb3JtIjoid2ViIiwicGxheWJhY2tTZXNzaW9uSWQiOiI4Njk0YWI1Yy1jZjhmLTQ5MzQtYjBkMi0xYmU3MjcxZWEzZjUiLCJyZXNvbHV0aW9uIjoiZmhkIiwic3RyZWFtVHlwZSI6ImRhc2giLCJzdWJQbGF0Zm9ybSI6ImNocm9tZSIsInVzZXJJZCI6IiJ9fQ.8pSWqh4VvCp1BepXJzWqJbxLqV6YjdTDxX7ll4oVX4s",
+    "icon": ""
+  }
+     
+    
+]    
+
+}
