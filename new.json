@@ -3,15 +3,15 @@
     "id": "kapamilya-hd",
     "name": "Kapamilya HD",
     "description": "Premium Filipino entertainment channel offering dramas, variety shows, and movies in high definition.",
-    "streamUrl": "https://amagivercel.vercel.app/api/proxy?url=http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com",
-    "streamType": "dash",
+    "streamUrl": "http://ott.udptv.net/stream/iptv/kapamilyachannel/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "streamType": "hls",
     "category": "General Entertainment",
     "country": "Philippines",
     "language": "Filipino/English",
     "quality": "HD",
     "isActive": true,
     "logo": "https://www.rappler.com/tachyon/r3-assets/3E8CFD536445453C9575551922F68F49/img/FAB93EF5D0DF4FD6BE017B76302A75BD/Kapamilya_Channel_logo.jpg",
-    "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    "licenseUrl": ""
   },
   {
     "id": "kapamilya-sd",
